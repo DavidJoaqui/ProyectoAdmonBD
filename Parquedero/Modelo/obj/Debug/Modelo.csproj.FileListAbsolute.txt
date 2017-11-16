@@ -1,0 +1,11 @@
+c:\users\steven\documents\visual studio 2010\Projects\Parquedero\Modelo\bin\Modelo.dll
+c:\users\steven\documents\visual studio 2010\Projects\Parquedero\Modelo\bin\Modelo.pdb
+c:\users\steven\documents\visual studio 2010\Projects\Parquedero\Modelo\bin\Oracle.DataAccess.dll
+c:\users\steven\documents\visual studio 2010\Projects\Parquedero\Modelo\obj\Debug\Modelo.dll
+c:\users\steven\documents\visual studio 2010\Projects\Parquedero\Modelo\obj\Debug\Modelo.pdb
+C:\Users\CristianDP\Documents\Visual Studio 2010\Projects\Parquedero\Modelo\bin\Modelo.dll
+C:\Users\CristianDP\Documents\Visual Studio 2010\Projects\Parquedero\Modelo\bin\Modelo.pdb
+C:\Users\CristianDP\Documents\Visual Studio 2010\Projects\Parquedero\Modelo\bin\Oracle.DataAccess.dll
+C:\Users\CristianDP\Documents\Visual Studio 2010\Projects\Parquedero\Modelo\obj\Debug\Modelo.dll
+C:\Users\CristianDP\Documents\Visual Studio 2010\Projects\Parquedero\Modelo\obj\Debug\Modelo.pdb
+C:\Users\CristianDP\Documents\Visual Studio 2010\Projects\Parquedero\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache

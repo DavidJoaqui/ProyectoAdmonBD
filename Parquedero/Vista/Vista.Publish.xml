@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Steven\Desktop\VistaPublica" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="05/31/2017 16:03:30" />
+    <file relUrl="bin/Modelo.dll" publishTime="05/31/2017 16:10:23" />
+    <file relUrl="Site.Master" publishTime="05/30/2017 23:20:57" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="05/30/2017 23:20:57" />
+    <file relUrl="bin/Control.dll" publishTime="05/31/2017 16:10:23" />
+    <file relUrl="Account/Register.aspx" publishTime="05/30/2017 23:20:57" />
+    <file relUrl="bin/Vista.dll" publishTime="05/31/2017 16:10:24" />
+    <file relUrl="GestionPersona.aspx" publishTime="05/31/2017 16:03:12" />
+    <file relUrl="Account/Login.aspx" publishTime="05/30/2017 23:20:57" />
+    <file relUrl="Styles/Site.css" publishTime="05/30/2017 23:20:57" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="05/30/2017 23:20:57" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="05/30/2017 23:20:57" />
+    <file relUrl="bin/Oracle.DataAccess.dll" publishTime="05/29/2014 12:12:56" />
+    <file relUrl="bin/Modelo.pdb" publishTime="05/31/2017 16:10:23" />
+    <file relUrl="bin/Vista.pdb" publishTime="05/31/2017 16:10:24" />
+    <file relUrl="Global.asax" publishTime="05/30/2017 23:20:57" />
+    <file relUrl="bin/Control.pdb" publishTime="05/31/2017 16:10:23" />
+    <file relUrl="Account/Web.config" publishTime="05/30/2017 23:20:57" />
+    <file relUrl="About.aspx" publishTime="05/30/2017 23:20:57" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="05/30/2017 23:20:57" />
+    <file relUrl="Default.aspx" publishTime="05/30/2017 23:20:57" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="05/30/2017 23:20:57" />
+  </publishProfile>
+</publishData>
